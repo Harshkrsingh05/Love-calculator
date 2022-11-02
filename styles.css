@@ -1,0 +1,27 @@
+.first{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  text-align: center;
+  color: red;
+  background-color: #FFF5E4;
+  font-family: 'Alkalami', serif;
+}
+.hearts{
+  height: 200px;
+}
+.second{
+  padding-top: 20px;
+  padding-bottom: 30px;
+
+  background-color: #FFE3E1;
+  text-align: center;
+}
+.last{
+  padding-top: 20px;
+  text-align: center;
+  background-color: #FFD1D1;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #FF9494;
+}
